@@ -1,6 +1,3 @@
 blahblahblah
-<<<<<<< HEAD
 Raayan wrote this
-=======
 Donald wrote this
->>>>>>> f7b0e0ba8e4161f13b1d2b13ee3946c2db0c7719
